@@ -51,4 +51,4 @@ Agradeço a participação no Bootcamp WEX - Desenvolvimento .NET e QAda da Dio.
 
 
 
-### Obrigado por dedicar seu tempo para explorar meu perfil &nbsp ;; ) 
+### Obrigado por dedicar seu tempo para explorar meu perfil ; ) 
